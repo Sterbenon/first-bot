@@ -1,0 +1,21 @@
+
+# Python
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# Temporary files
+build/
+dist/
+*.log
+*.exe
+
+# Private data
+.env
+*.xls
+*.xlsx
+
+# Archives
+*.rar
+*.zip
